@@ -1,11 +1,10 @@
 # Lander03xD
 
-Sharing my work as a creativecustom keyboard designer and maker.
-
-`ZMK` `C` `PCB Design` `3D Printing` `Python` `Linux` `Big Data` `Data Engineering` 
+Sharing my work as a creative custom keyboard designer and maker.
 
 🌐 [lander03xD.com](https://lander03xD.com) : YouTube, Twitch, Discord, Instagram, Reddit, Ko-fi, and more
 
+`ZMK` `C` `PCB Design` `3D Printing` `Python` `Linux` `Big Data` `Data Engineering` 
 
 ## What I do:
 
