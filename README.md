@@ -3,12 +3,18 @@
 Sharing my work as a creativecustom keyboard designer and maker.
 
 **Skills and tools:**
+
 `ZMK` `C` `PCB Design` `3D Printing` `Python` `Linux` `Big Data` `Data Engineering` 
 
 **Find me:**
+
 🌐 [lander03xD.com](https://lander03xD.com) : YouTube, Twitch, Discord, Instagram, Reddit, Ko-fi, and more
 
-**Collaborations:** [Redragon](https://redragonshop.com) (keyboard reviews on Reddit), [PCBWay](https://https://www.pcbway.com/) (sponsored the Low3xD keyboard), [3DJake](http://3djake.be/) (provided filament for the Crab03xD)
+**Collaborations:** 
+
+ - [Redragon](https://redragonshop.com) (keyboard reviews on Reddit)
+ - [PCBWay](https://https://www.pcbway.com/) (sponsored the Low3xD keyboard)
+ - [3DJake](http://3djake.be/) (provided filament for the Crab03xD)
 
 ## What I do:
 
